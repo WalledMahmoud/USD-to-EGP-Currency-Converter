@@ -3,8 +3,8 @@
 USD to EGP Currency Converter is a Chrome extension that allows users to quickly convert currency from USD to EGP using real-time exchange rates.
 
 <div style="display: flex;">
-    <img src="/images/usdegp1.png" alt="Image 1" style="width: 45%;">
-    <img src="/images/usdegp2.png" alt="Image 2" style="width: 45%;">
+    <img src="/images/usdegp1.PNG" alt="Image 1" style="width: 45%;">
+    <img src="/images/usdegp2.PNG" alt="Image 2" style="width: 45%;">
 </div>
 
 ## Features
