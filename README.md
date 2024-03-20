@@ -41,10 +41,7 @@ USD to EGP Currency Converter is a Chrome extension that allows users to quickly
 2. Enter the amount you want to convert from USD to EGP.
 3. Click the "Convert" button to see the conversion results.
 4. View the converted amounts in both black market and legal market exchange rates.
-5. The time and date of the last conversion are displayed at the top for reference.
+5. The time and date of the last conversion are displayed at the bottom for reference.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
