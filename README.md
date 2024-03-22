@@ -7,6 +7,9 @@ USD to EGP Currency Converter is a Chrome extension that allows users to quickly
     <img src="/images/usdegp2.PNG" alt="Image 2" style="width: 45%;">
 </div>
 
+### Disclaimer
+This Chrome extension is designed for educational purposes only. We do not encourage or endorse the use of black market exchange rates for currency conversion. Dealing with black market rates may be illegal and can pose financial risks. It is always recommended to use legal and authorized channels for currency exchange transactions. The legal market rates provided by this extension are sourced from reputable sources and are intended for informational purposes only. Users are responsible for their own actions and should adhere to local laws and regulations regarding currency exchange.
+
 ## Features
 
 ### Black Market Exchange Rate
