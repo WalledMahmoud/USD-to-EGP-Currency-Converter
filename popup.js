@@ -100,6 +100,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const blackMarketResultDiv = document.getElementById('blackMarketResult');
     const legalMarketResultDiv = document.getElementById('legalMarketResult');
     const invalidAmountDiv = document.getElementById('invalidAmount');
+    const lossesDiv = document.getElementById('losses');
 
     // Restore input, result, and date/time data when the popup is opened
     restoreData();
@@ -146,6 +147,7 @@ document.addEventListener('DOMContentLoaded', function () {
         } else {
             blackMarketResultDiv.textContent = '';
             legalMarketResultDiv.textContent = '';
+            lossesDiv.textContent = '';
         }
     });
 });
