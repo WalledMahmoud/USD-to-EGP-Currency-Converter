@@ -62,12 +62,7 @@ async function fetchBlackMarketRate() {
 // Legal Market Rates
 async function fetchLegalMarketRate() {
     try {
-        const apiKey = 'Zt9nE84Z6uUURHiByW9kFTz3aWylpG7m'; // Replace 'YOUR_API_KEY' with your actual API key
-        const response = await fetch('https://api.apilayer.com/exchangerates_data/latest?symbols=EGP&base=USD', {
-            headers: {
-                'apikey': `${apiKey}`
-            }
-        });
+        const response = await fetch('https://api.exchangerate-api.com/v4/latest/USD');
 
         if (!response.ok) {
             throw new Error("Network response was not ok");
