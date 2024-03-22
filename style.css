@@ -55,17 +55,13 @@ button:hover {
 
 .result-container {
     margin-top: 20px;
-    font-size: 16px;
+    font-size: 15px;
     color: #333;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .result-container div {
     margin-bottom: 10px;
-}
-
-#blackMarketResult {
-    color:#ed0163
 }
 
 .invalid-amount {
@@ -79,4 +75,14 @@ button:hover {
     margin-top: 20px;
     text-align: center;
     font-style: italic;
+}
+
+#losses {
+    font-size: 14px;
+    color: #555;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    color:#ed0163
+
 }

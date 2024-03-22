@@ -25,6 +25,10 @@ USD to EGP Currency Converter is a Chrome extension that allows users to quickly
 - Saves user-entered amounts and conversion results locally using Chrome storage.
 - Restores saved data when the extension is reopened.
 
+### Financial Loss Calculation
+- Calculates and displays the financial loss between the black market and legal market exchange rates.
+- Determines the market with the higher rate and provides a user-friendly message indicating which market is better.
+
 ### Time and Date Display
 - Displays the current date and time of the last conversion.
 - Updates the time and date automatically with each conversion.
@@ -41,7 +45,15 @@ USD to EGP Currency Converter is a Chrome extension that allows users to quickly
 2. Enter the amount you want to convert from USD to EGP.
 3. Click the "Convert" button to see the conversion results.
 4. View the converted amounts in both black market and legal market exchange rates.
-5. The time and date of the last conversion are displayed at the bottom for reference.
+5. Financial losses between the two market rates are shown, along with a message indicating which market is better.
+6. The time and date of the last conversion are displayed at the bottom for reference.
+
+### Development:
+- This extension was developed using HTML, CSS, JavaScript, and the Chrome Extension API.
+
+### Credits:
+- <a target="_new" href="https://p2p.binance.com">Binance P2P</a>: Used for fetching black market rates.
+- <a target="_new" href="https://exchangerate-api.com">exchangerate-api</a>: Used for fetching legal market rates.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
