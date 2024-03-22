@@ -52,8 +52,8 @@ USD to EGP Currency Converter is a Chrome extension that allows users to quickly
 - This extension was developed using HTML, CSS, JavaScript, and the Chrome Extension API.
 
 ### Credits:
-- <a href="https://p2p.binance.com" target="_blank" rel="noopener noreferrer">Binance P2P</a>: Used for fetching black market rates.
-- <a href="https://exchangerate-api.com" target="_blank" rel="noopener noreferrer">exchangerate-api</a>: Used for fetching legal market rates.
+- [Binance P2P](https://p2p.binance.com): Used for fetching black market rates.
+- [exchangerate-api](https://exchangerate-api.com): Used for fetching legal market rates.
 
 
 ## Contributing
