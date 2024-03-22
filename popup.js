@@ -31,8 +31,6 @@ function calculateAndDisplayLosses(blackMarketAmountMatch, legalMarketAmountMatc
         const legalMarketAmount = parseFloat(legalMarketAmountMatch[0]);
         const losses = Math.abs(legalMarketAmount - blackMarketAmount).toFixed(2);
         lossesDiv.textContent = `The ${betterMarket} saving you ${losses} EGP.`; // Display the losses
-    } else {
-        lossesDiv.textContent = 'Financial Loss: N/A';
     }
 }
 
